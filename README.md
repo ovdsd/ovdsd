@@ -50,7 +50,7 @@
         <i>Kindly tell who you are and your intentions.</i>
     </p>
     <a href="https://discord.com/users/363959416044912642"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" align="center"/></a>
-    <a href="https://muhammadisadprabaswara.rf.gd"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" align="center"/></a>
+    <a href="http://muhammadisadprabaswara.rf.gd/?i=1"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" align="center"/></a>
 </div>
 <br>
 <div>
