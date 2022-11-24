@@ -44,10 +44,11 @@
 <div>
     <h2 align = "left">Get in touch with me!</h2>
     <p align="center">Feel Free to contact me
+        <br>
         <i>Kindly tell who you are and your intentions.</i>
-    <a href="https://discord.com/users/363959416044912642"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>
-    <a href="https://muhammadisadprabaswara.rf.gd"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
     </p>
+    <a href="https://discord.com/users/363959416044912642"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" align="center"/></a>
+    <a href="https://muhammadisadprabaswara.rf.gd"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" align="center"/></a>
 </div>
 <br>
 <div>
