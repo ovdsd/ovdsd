@@ -10,7 +10,7 @@
 <!-- About Me -->
 <div>
   <h2 align="left">About Me</h2>
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fphcorner.net%2Fthreads%2Fthe-best-websites-to-learn-programming-online.1225294%2F&psig=AOvVaw2NwvTulybSWyd-rVX_aFTS&ust=1669362835611000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCJjq96erxvsCFQAAAAAdAAAAABAF" align="right" align="right" height="200"/>
+    <img src="assets/7037d478852af21357f038fac2d2e9f6.gif" align="right" align="right" height="200"/>
   <p>Hello, My name is Muhammad Is'ad Prabaswara. I'm currently studying informatics engineering at Universitas Padjadjaran.
         <p> 🔹Gender  : He/Him </p>
         <p> 🔹Intrest : Web Development, Game Development</p>
@@ -44,7 +44,7 @@
 <br>
 <div align="center">
     <h2 align = "left">Get in touch with me!</h2>
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fcalling-call-the-police-911-gif-25252175&psig=AOvVaw2IogrTDqVNp-PF9dVXq3SO&ust=1669362747190000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCIDG3f2qxvsCFQAAAAAdAAAAABAi" align="right" align="right" height="200">
+    <img src="assets/calling-call.gif" align="right" align="right" height="200">
     <p align="center">Feel Free to contact me
         <br>
         <i>Kindly tell who you are and your intentions.</i>
