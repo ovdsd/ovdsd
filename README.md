@@ -10,6 +10,7 @@
 <!-- About Me -->
 <div>
   <h2 align="left">About Me</h2>
+    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fphcorner.net%2Fthreads%2Fthe-best-websites-to-learn-programming-online.1225294%2F&psig=AOvVaw2NwvTulybSWyd-rVX_aFTS&ust=1669362835611000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCJjq96erxvsCFQAAAAAdAAAAABAF" align="right" align="right" height="200"/>
   <p>Hello, My name is Muhammad Is'ad Prabaswara. I'm currently studying informatics engineering at Universitas Padjadjaran.
         <p> 🔹Gender  : He/Him </p>
         <p> 🔹Intrest : Web Development, Game Development</p>
@@ -41,8 +42,9 @@
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 </div>
 <br>
-<div>
+<div align="center">
     <h2 align = "left">Get in touch with me!</h2>
+    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fcalling-call-the-police-911-gif-25252175&psig=AOvVaw2IogrTDqVNp-PF9dVXq3SO&ust=1669362747190000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCIDG3f2qxvsCFQAAAAAdAAAAABAi" align="right" align="right" height="200">
     <p align="center">Feel Free to contact me
         <br>
         <i>Kindly tell who you are and your intentions.</i>
@@ -54,6 +56,7 @@
 <div>
     <h2 align="left">Github Things</h2>
     <img src="https://github-readme-stats.vercel.app/api?username=ovdsd&show_icons=true&theme=nightowl&hide_border=true&include_all_commits=true%22%20align=%22center%22"/>
+    <br>
     <br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ovdsd&layout=compact&langs_count=6&theme=nightowl&hide_border=true%22%20align=%22center"/>
 </div>
