@@ -1,10 +1,12 @@
 <div align="center">
     <img src="/assets/logo.png" align="center" height="400"/>
 </div>
+<br>
 <div>
   <h1 align="center">Hi 👋, I'm Is'ad</h1>
 </div>
 
+<br>
 <!-- About Me -->
 <div>
   <h2 align="left">About Me</h2>
@@ -13,7 +15,7 @@
         <p> 🔹Intrest : Web Development, Game Development</p>
    </p>
 </div>
-
+<br>
 <div>
     <h2 align="left">🖥️ My knowledge</h2>
     <h4 align="right">Programming Language</h4>
@@ -38,7 +40,7 @@
     <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 </div>
-
+<br>
 <div>
     <h2 align = "left">Get in touch with me!</h2>
     <p>Feel Free to contact me</p>
@@ -46,13 +48,16 @@
     <a href="https://muhammadisadprabaswara.rf.gd"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
     
 </div>
-
+<br>
 <div>
     <h2 align="left">Github Things</h2>
     <img src="https://github-readme-stats.vercel.app/api?username=ovdsd&show_icons=true&theme=nightowl&hide_border=true&include_all_commits=true%22%20align=%22center%22"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ovdsd&layout=compact&langs_count=6&theme=nightowl&hide_border=true%22%20align=%22center"/>
 </div>
-
+<br>
 <div align="center">
     <h1 align="center"> Thank You for visiting my github pages 👋</h1>
 </div>
+<br>
+<br>
+<br>
