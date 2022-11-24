@@ -5,18 +5,15 @@
 </div>
 
 <!-- About Me -->
-<div align="center">
+<div>
   <h2 align="left">About Me</h2>
   <p>Hello, My name is Muhammad Is'ad Prabaswara. I'm currently studying informatics engineering at Universitas Padjadjaran.
-    <ul>
-        <li> 🔹Gender  : He/Him
-        <li> 🔹Intrest : Web Development, Game Development</li>
-        <li> 🔹Current Activity : Developing Indocemara GTA 5 Roleplay Server and Busy with University</li>
-    </ul>
+        <p> 🔹Gender  : He/Him </p>
+        <p> 🔹Intrest : Web Development, Game Development</p>
    </p>
 </div>
 
-<div align="center">
+<div>
     <h2 align="left">🖥️ My knowledge</h2>
     <h4 align="right">Programming Language</h4>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black"/>
@@ -41,7 +38,7 @@
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 </div>
 
-<div align="center">
+<div>
     <h2 align = "left">Get in touch with me!</h2>
     <p>Feel Free to contact me</p>
     <a href="https://discord.com/users/363959416044912642"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>
