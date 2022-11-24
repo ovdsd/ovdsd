@@ -1,6 +1,5 @@
 <div>
-  
-
+    <img src="/assets/logo.png" align="center"/>
 <div>
   <h1 align="center">Hi 👋, I'm Is'ad</h1>
 </div>
