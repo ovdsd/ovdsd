@@ -53,6 +53,8 @@
     <a href="http://muhammadisadprabaswara.rf.gd/?i=1"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" align="center"/></a>
 </div>
 <br>
+<br>
+<br>
 <div>
     <h2 align="left">Github Things</h2>
     <img src="https://github-readme-stats.vercel.app/api?username=ovdsd&show_icons=true&theme=nightowl&hide_border=true&include_all_commits=true%22%20align=%22center%22"/>
