@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">Hello, My name is Muhammad Is'ad Prabaswara. I'm currently studying informatics engineering at Universitas Padjadjaran.</p>
+<p align="left">Hello, My name is Muhammad Is'ad Prabaswara. I'm an undergraduate informatics engineering from Universitas Padjadjaran.</p>
 
 ###
 
